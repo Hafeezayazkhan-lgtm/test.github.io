@@ -1,0 +1,26 @@
+img{
+    height: 500px;
+    margin-right: 20px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.white{
+    color: white;
+}
+#w{
+    color: white;
+}
+#g{
+    color: rgb(18, 247, 18);
+}
+body{
+    background-color: black;
+}
+.whitegray{
+    color: rgba(255, 255, 255, 0.884);
+}
+.green{
+    color: rgb(18, 247, 18);
+}
